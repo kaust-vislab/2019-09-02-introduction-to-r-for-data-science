@@ -1,8 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"      
-venue: "KAUST Visualization Lab" 
-address: "Auditorium 0215 (between buildings 2 and 3)"
+venue: "KAUST Visualization Core Lab" 
+address: "Auditorium 215 (between bldg. 2-3, level 0)"
 country: "sa"
 language: "en"
 latlng: "22.307807, 39.105358"
