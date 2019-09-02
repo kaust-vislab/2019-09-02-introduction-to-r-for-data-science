@@ -11,7 +11,7 @@ humantime: "8:30 am  - 5:00 pm"
 startdate: 2019-09-02      
 enddate: 2019-09-02        
 instructor: ["David R. Pugh"]
-helper: ["TBD"]
+helper: ["Joao Curdia", "Alejandra Ortega", "Tamara Huete-Stauffer", "Kashif Nawaz", "Alejandro Morales"]
 email: ["help@vis.kaust.edu.sa"]
 collaborative_notes: https://pad.carpentries.org/2019-09-02-kaust-vislab
 ---
